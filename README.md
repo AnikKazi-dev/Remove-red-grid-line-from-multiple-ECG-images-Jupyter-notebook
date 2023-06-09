@@ -6,5 +6,6 @@ To run the notebook successfully, you will need the following:
 
 * Python
 * Jupyter Notebook
-* Required libraries
+* Required libraries (e.g., OpenCV, NumPy)
+
 Make sure you have the necessary dependencies installed before proceeding.
